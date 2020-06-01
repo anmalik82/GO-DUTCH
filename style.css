@@ -1,0 +1,23 @@
+body {
+    background: url(images/project1.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+div {
+    width:60%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3  {
+    font-size: 2em;
+}
+
+p  {
+   font-size: 1.2em; 
+}
+
+
